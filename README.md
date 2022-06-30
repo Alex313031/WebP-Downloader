@@ -2,9 +2,9 @@
 Save an image as a PNG, JPG, or WebP via Chromium context menu. \
 A Chromium Extension which adds Save Image as PNG / JPG / WebP option to the context menu of image.
 
-Screenshot
+<img src="https://raw.githubusercontent.com/Alex313031/WebP-Downloader/main/screenshot.png" width="600">
 
-Because I we sometimes need save a WebP image as another format, I first found this > [Save Image as Type](https://chrome.google.com/webstore/detail/gabfmnliflodkdafenbcpjdlppllnemd), and simply updated the extension.
+Because we sometimes need save a WebP image as another format, I first found this > [Save Image as Type](https://chrome.google.com/webstore/detail/gabfmnliflodkdafenbcpjdlppllnemd), and simply updated the extension.
 
 As per the [README.md](https://github.com/cuixiping/Save-Image-as-Type#readme) for [that extension](https://github.com/cuixiping/Save-Image-as-Type), it was based on these:
 
