@@ -1,6 +1,6 @@
 # WebP Downloader
 Save an image as a PNG, JPG, or WebP via Chromium context menu.
-Save Image as Type is a Chromium Extension which adds Save Image as PNG / JPG / WebP option to the context menu of image.
+A Chromium Extension which adds Save Image as PNG / JPG / WebP option to the context menu of image.
 
 Screenshot
 
