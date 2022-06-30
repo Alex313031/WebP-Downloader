@@ -1,5 +1,5 @@
 # WebP Downloader
-Save an image as a PNG, JPG, or WebP via Chromium context menu.
+Save an image as a PNG, JPG, or WebP via Chromium context menu. \
 A Chromium Extension which adds Save Image as PNG / JPG / WebP option to the context menu of image.
 
 Screenshot
