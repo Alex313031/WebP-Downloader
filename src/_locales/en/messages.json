@@ -1,0 +1,26 @@
+{
+	"extName": {
+		"message": "WebP Downloader"
+	},
+	"extShortName": {
+		"message": "SaveImageAs"
+	},
+	"extDescription": {
+		"message": "Save an image as a PNG, JPG, or WebP via context menu."
+	},
+	"Save_as": {
+		"message": "Save as"
+	},
+	"View_in_store": {
+		"message": "View in Web Store"
+	},
+	"errorIsNotImage": {
+		"message": "Format is not recognized"
+	},
+	"errorOnSaving": {
+		"message": "An error occurred while saving the image"
+	},
+	"errorOnLoading": {
+		"message": "An error occurred while loading the image"
+	}
+}
